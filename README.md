@@ -7,4 +7,6 @@
 6. breast_cancer3.ipynb : By taking certain inputs, it has two codes one gives the stage of the cancer and the other gives the kind of cancer (Benign or Malignant tumor)
 7. NURSE MOVEMENT-20240324T042317Z-001.zip : Real time prototype of a robot movement and recording vitals from the patients
 8. Surgical Robot Simulation.rar : Its the Surgical robot model simulation using RoboDK (the python files given should be used to make it operate on specific region where tumor is present and the .csv files address should be changed in the python code according to your requirements. if you have other .csv you can use them by changing the address part in the python code).
+
+
 [DotSlash 5.0 Team RUNN!! ppt.pdf](https://github.com/TeamRUNN/Team-RUNN-dotslash5/files/14734377/DotSlash.5.0.Team.RUNN.ppt.pdf)
